@@ -1,5 +1,4 @@
-
-          * {
+* {
   padding: 0;
   margin: 0;
 }
@@ -102,9 +101,10 @@ div {
 }
 
 .sectionA>div>button {
-  width: 9%;
+  width:9rem;
   height: 25%;
   margin: 1%;
+  font-size: large;
 }
 
 #oo {
@@ -354,3 +354,7 @@ div {
 .dropdown:hover .dropdown-content {
   display: inline-block;
 }
+.gg{background-color: #292f36; border: 2px solid 
+  white; color: #ffffff;}
+  .g{background-color: #ffffff; border: 2px solid
+    #292f36; color: #292f36;}
